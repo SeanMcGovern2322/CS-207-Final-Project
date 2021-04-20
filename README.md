@@ -1,5 +1,6 @@
-## CS-207-Final-Project
+### CS-207-Final-Project
 
+#Table of Contents
 1. Showcase  
 2. Build instructions
 3. What is it for?
