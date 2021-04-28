@@ -2,15 +2,15 @@
 
 ### Table of Contents
 1. Showcase  
-2. Build instructions
-3. Components
-4. Code
-5. What is it for?
-6. Planned Features  
-7. Bugs List
-8. License
-9. Credits
-10. Thanks 
+2. Manifest
+3. Build instructions
+4. Components
+6. What is it for?
+7. Planned Features  
+8. Bugs List
+9. License
+10. Credits
+11. Thanks 
 
 ### Showcase 
 
