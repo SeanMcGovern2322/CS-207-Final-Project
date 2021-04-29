@@ -56,3 +56,14 @@ For this project I turned an infant's highchair into a musical toy using some li
 17. Cut Rubbermaid containers to cover compnents and tape containers down.
 
 ### What is it for?
+
+The primary purpose of this project is for the entertainment of my soon to be born second son.  Keeping his older brother entertained while waiting for feedings was difficult so I thought that this project would have some success in keeping the new little one entertained while we get his food ready when he's old enough to eat solids.
+
+It is used by placing baby in chair, strapping them in, placing the tray, and letting them push buttons and enjoy the songs and lights that are played.
+
+
+### Bugs List
+
+The only and most problematic bug that I was unable to fix causes the project to not work.  For some reason the songs play whether or not a button has been placed and the light pattern either plays incorrectly or not at all.  I am unfortunately not a very experienced coder and could not see if there was an issue with the code.  Besides the code, the problem could also be with the arcade buttons wiring or the memory of the Arduino Uno almost being filled by the code.  I tried wiring the buttons in multiple ways but none of them led to a working result.  If anyone recreates the project and figures it out, please let me know.
+
+
