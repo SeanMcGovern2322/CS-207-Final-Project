@@ -8,7 +8,6 @@
 5. Build instructions
 6. What is it for?  
 8. Bugs List
-9. License
 10. Credits
 11. Thanks 
 
@@ -66,4 +65,5 @@ It is used by placing baby in chair, strapping them in, placing the tray, and le
 
 The only and most problematic bug that I was unable to fix causes the project to not work.  For some reason the songs play whether or not a button has been placed and the light pattern either plays incorrectly or not at all.  I am unfortunately not a very experienced coder and could not see if there was an issue with the code.  Besides the code, the problem could also be with the arcade buttons wiring or the memory of the Arduino Uno almost being filled by the code.  I tried wiring the buttons in multiple ways but none of them led to a working result.  If anyone recreates the project and figures it out, please let me know.
 
+Credits
 
