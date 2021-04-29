@@ -19,6 +19,7 @@ For this project I turned an infant's highchair into a musical toy using some li
 1. Circuit Diagram - Final Project.fzz, a basic diagram of the circuit, showing the components and how they are wired up.  Drawn in the fritzing software.
 2. Final_project_Code.ino, the code of the project, managing how all the components of the build function.  Writting in the Arduino Software (IDE).
 3. README.md, the readme file you are currently reading. Details the process of the build, it's purpose, and it's issues.  Writting in Github.
+4. LICENSE, the open source license for the project.
 
 ### Components
 1. Arduino Uno
@@ -65,5 +66,13 @@ It is used by placing baby in chair, strapping them in, placing the tray, and le
 
 The only and most problematic bug that I was unable to fix causes the project to not work.  For some reason the songs play whether or not a button has been placed and the light pattern either plays incorrectly or not at all.  I am unfortunately not a very experienced coder and could not see if there was an issue with the code.  Besides the code, the problem could also be with the arcade buttons wiring or the memory of the Arduino Uno almost being filled by the code.  I tried wiring the buttons in multiple ways but none of them led to a working result.  If anyone recreates the project and figures it out, please let me know.
 
-Credits
+### Credits
+
+This project was adapted from the Baby High Chair Musical project by Thomas sxt, found at this link: <https://create.arduino.cc/projecthub/thomassxt/baby-high-chair-musical-a85090?ref=part&ref_id=8233&offset=65#cad>
+
+My only colaborator was my mother who drilled the holes and cut the Rubbermaid containers.
+
+### Thanks
+
+Thanks mom for helping with the build.
 
