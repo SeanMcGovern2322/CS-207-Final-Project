@@ -14,7 +14,7 @@
 
 ### Showcase 
 
-For this project I turned an infant's highchair into a musical toy using some lights, a few arcade buttons, a paizo buzzer, and an Arduino Uno.  When the child pushes one of the arcade button the buzzer will play one of the songs selected from the musicbuzzer library and then play a Larson Scanner pattern across the lights.
+For this project I turned an infant's highchair into a musical toy using some lights, a few arcade buttons, a paizo buzzer, and an Arduino Uno.  When the child pushes one of the arcade button the buzzer will play one of the songs selected from the musicbuzzer library and then play a Larson Scanner pattern across the lights.  Hopefully keeping the child happy and entertainted.
 
 ### Manifest
 1. Circuit Diagram - Final Project.fzz, a basic diagram of the circuit, showing the components and how they are wired up.  Drawn in the fritzing software.
@@ -23,3 +23,13 @@ For this project I turned an infant's highchair into a musical toy using some li
 
 ### Components
 1. Arduino
+2. Batterypack for Arduino
+3. Infant Highchair
+4. x7 LEDS, prefferably of multiple colors
+5. x4 Arcade buttons, prefferably of multiple colors
+6. x4 Arcade button quick connect wires
+7. Multiple pin connector wires, both male to male and male to female
+8. Rubbermaid containers
+
+###Install Instructions
+1. 
